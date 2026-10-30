@@ -2,6 +2,7 @@
 
 ## Paper Link: https://dl.acm.org/doi/10.1145/3789938.3789958
 
+## JMM Poster Abstract: https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/58821
 
 
 U-Net architecture, trained weights, and WSI methodology were adopted from:
