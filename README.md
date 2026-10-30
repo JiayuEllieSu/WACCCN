@@ -1,6 +1,6 @@
 # WACCCN: Wavelet-Based Multiscale Anisotropy-Aware Cell-Cell Communication Inference and Niche Segmentation
 
-https://dl.acm.org/doi/10.1145/3789938.3789958
+## Paper Link: https://dl.acm.org/doi/10.1145/3789938.3789958
 
 
 
